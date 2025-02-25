@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "frontend/pages/**/*.{js,ts,jsx,tsx}",
+      "use": "@vercel/next"
+    }
+  ]
+}
