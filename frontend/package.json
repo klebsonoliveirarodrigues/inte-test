@@ -10,11 +10,13 @@
     "vercel-build": "npm run build"
   },
   "dependencies": {
+    "konva": "^9.3.18",
     "next": "15.1.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-dropzone": "^14.3.8",
-    "react-image-crop": "^11.0.7"
+    "react-image-crop": "^11.0.7",
+    "react-konva": "^19.0.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
